@@ -22,9 +22,6 @@
 
 //Better Solution Using Binary Search
 //Its important
-//Anchal you should study hard you should remember Your goals and don't try to be foolish all the random
-//things you should think about you and your parents this is good for you please try to understand
-//You should become like you before when it does't matter what others doing what others thinking you only focuesd on your goal and make happens what you want you have to think about what are you doing rightnow try to understand you and your situation
 
 
 //The solution is using Binary search
