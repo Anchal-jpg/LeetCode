@@ -41,4 +41,16 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Anchal-jpg/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anchal-jpg/LeetCode/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anchal-jpg/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anchal-jpg/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
