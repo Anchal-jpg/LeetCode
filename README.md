@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anchal-jpg/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0198-house-robber](https://github.com/Anchal-jpg/LeetCode/tree/master/0198-house-robber) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anchal-jpg/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Anchal-jpg/LeetCode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
