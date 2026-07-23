@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anchal-jpg/LeetCode/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/Anchal-jpg/LeetCode/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0014-longest-common-prefix](https://github.com/Anchal-jpg/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0198-house-robber](https://github.com/Anchal-jpg/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0213-house-robber-ii) |
+| [0704-binary-search](https://github.com/Anchal-jpg/LeetCode/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
