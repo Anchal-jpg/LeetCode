@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anchal-jpg/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Anchal-jpg/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0213-house-robber-ii) |
@@ -68,6 +69,7 @@
 | [0014-longest-common-prefix](https://github.com/Anchal-jpg/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anchal-jpg/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anchal-jpg/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anchal-jpg/LeetCode/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
@@ -97,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anchal-jpg/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -115,6 +118,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
