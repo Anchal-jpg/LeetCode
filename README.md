@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anchal-jpg/LeetCode/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anchal-jpg/LeetCode/tree/master/0704-binary-search) |
 ## Interactive
 |  |
@@ -58,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Anchal-jpg/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0213-house-robber-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anchal-jpg/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Anchal-jpg/LeetCode/tree/master/0739-daily-temperatures) |
 ## String
