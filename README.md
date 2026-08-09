@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -32,12 +34,14 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anchal-jpg/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0543-diameter-of-binary-tree) |
