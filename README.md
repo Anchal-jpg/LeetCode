@@ -84,6 +84,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anchal-jpg/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anchal-jpg/LeetCode/tree/master/0058-length-of-last-word) |
+| [0520-detect-capital](https://github.com/Anchal-jpg/LeetCode/tree/master/0520-detect-capital) |
 ## Trie
 |  |
 | ------- |
