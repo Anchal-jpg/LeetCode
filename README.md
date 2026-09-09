@@ -98,6 +98,7 @@
 | [0189-rotate-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Anchal-jpg/LeetCode/tree/master/0342-power-of-four) |
 | [3870-count-commas-in-range](https://github.com/Anchal-jpg/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
