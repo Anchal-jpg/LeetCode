@@ -85,6 +85,7 @@
 | [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anchal-jpg/LeetCode/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/Anchal-jpg/LeetCode/tree/master/0520-detect-capital) |
+| [1143-longest-common-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0070-climbing-stairs](https://github.com/Anchal-jpg/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Anchal-jpg/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0213-house-robber-ii) |
+| [1143-longest-common-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Anchal-jpg/LeetCode/tree/master/0342-power-of-four) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
