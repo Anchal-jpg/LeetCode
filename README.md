@@ -185,6 +185,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Anchal-jpg/LeetCode/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/Anchal-jpg/LeetCode/tree/master/0461-hamming-distance) |
 ## Longest Common Subsequence
 |  |
 | ------- |
