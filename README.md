@@ -76,6 +76,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anchal-jpg/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Anchal-jpg/LeetCode/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/Anchal-jpg/LeetCode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0189-rotate-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Anchal-jpg/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anchal-jpg/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/Anchal-jpg/LeetCode/tree/master/0832-flipping-an-image) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -186,8 +188,17 @@
 | ------- |
 | [0342-power-of-four](https://github.com/Anchal-jpg/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Anchal-jpg/LeetCode/tree/master/0461-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/Anchal-jpg/LeetCode/tree/master/0832-flipping-an-image) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Anchal-jpg/LeetCode/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Anchal-jpg/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
