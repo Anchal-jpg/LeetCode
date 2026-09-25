@@ -18,6 +18,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Anchal-jpg/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Anchal-jpg/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -43,6 +45,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Anchal-jpg/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anchal-jpg/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -118,6 +121,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anchal-jpg/LeetCode/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Anchal-jpg/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Anchal-jpg/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Anchal-jpg/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
