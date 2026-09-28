@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Anchal-jpg/LeetCode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anchal-jpg/LeetCode/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@
 | [0164-maximum-gap](https://github.com/Anchal-jpg/LeetCode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Anchal-jpg/LeetCode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0213-house-robber-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -215,5 +217,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
