@@ -80,6 +80,7 @@
 | [0198-house-robber](https://github.com/Anchal-jpg/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0213-house-robber-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anchal-jpg/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Anchal-jpg/LeetCode/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Anchal-jpg/LeetCode/tree/master/0832-flipping-an-image) |
@@ -211,4 +212,8 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Anchal-jpg/LeetCode/tree/master/0832-flipping-an-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
