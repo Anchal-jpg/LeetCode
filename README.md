@@ -81,6 +81,7 @@
 | [0198-house-robber](https://github.com/Anchal-jpg/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anchal-jpg/LeetCode/tree/master/0704-binary-search) |
@@ -139,6 +140,7 @@
 | [0001-two-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Anchal-jpg/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anchal-jpg/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -165,6 +167,7 @@
 | [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Anchal-jpg/LeetCode/tree/master/0164-maximum-gap) |
+| [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -229,4 +232,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
