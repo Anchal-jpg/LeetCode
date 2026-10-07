@@ -5,6 +5,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Anchal-jpg/LeetCode/tree/master/0278-first-bad-version) |
@@ -70,6 +71,7 @@
 | [0001-two-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Anchal-jpg/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Anchal-jpg/LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Anchal-jpg/LeetCode/tree/master/0051-n-queens) |
