@@ -90,6 +90,7 @@
 | [0739-daily-temperatures](https://github.com/Anchal-jpg/LeetCode/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anchal-jpg/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Anchal-jpg/LeetCode/tree/master/0832-flipping-an-image) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anchal-jpg/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anchal-jpg/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
@@ -145,6 +146,7 @@
 | [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anchal-jpg/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anchal-jpg/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anchal-jpg/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anchal-jpg/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anchal-jpg/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
