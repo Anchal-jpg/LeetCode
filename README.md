@@ -249,4 +249,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Anchal-jpg/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
