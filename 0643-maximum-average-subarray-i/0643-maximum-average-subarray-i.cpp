@@ -27,14 +27,17 @@ public:
         for(int i=0;i<k;i++){
              sum+=nums[i];
         }
-         int Max=sum;
+        double avg=(double)sum/k;
+        double ans=avg;
+        
         for(int i=k;i<nums.size();i++){
             sum+=nums[i];
             sum-=nums[i-k];
-            Max=max(Max,sum);
+            avg=(double)sum/k;
+            ans=max(ans,avg);
 
         }
-        return double(Max)/k;
+        return ans;
         
     }
 };
