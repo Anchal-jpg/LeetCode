@@ -34,5 +34,3 @@ public:
         return dummy->next; // return head of merged list
     }
 };
-
-//Solution is done 
