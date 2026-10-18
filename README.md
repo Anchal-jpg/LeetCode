@@ -79,6 +79,7 @@
 | [0039-combination-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Anchal-jpg/LeetCode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Anchal-jpg/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anchal-jpg/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -124,6 +125,7 @@
 | [0007-reverse-integer](https://github.com/Anchal-jpg/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anchal-jpg/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Anchal-jpg/LeetCode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Anchal-jpg/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anchal-jpg/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Anchal-jpg/LeetCode/tree/master/0342-power-of-four) |
