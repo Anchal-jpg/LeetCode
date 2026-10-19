@@ -111,6 +111,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anchal-jpg/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anchal-jpg/LeetCode/tree/master/0058-length-of-last-word) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anchal-jpg/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Anchal-jpg/LeetCode/tree/master/0520-detect-capital) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anchal-jpg/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1143-longest-common-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -158,6 +159,7 @@
 | [0012-integer-to-roman](https://github.com/Anchal-jpg/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Anchal-jpg/LeetCode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anchal-jpg/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anchal-jpg/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Anchal-jpg/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anchal-jpg/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -248,6 +250,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anchal-jpg/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anchal-jpg/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Anchal-jpg/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anchal-jpg/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
