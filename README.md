@@ -94,6 +94,7 @@
 | [0213-house-robber-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Anchal-jpg/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Anchal-jpg/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -165,6 +166,7 @@
 | [0076-minimum-window-substring](https://github.com/Anchal-jpg/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anchal-jpg/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anchal-jpg/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Anchal-jpg/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anchal-jpg/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -196,6 +198,7 @@
 | [0088-merge-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Anchal-jpg/LeetCode/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -258,6 +261,7 @@
 | [0076-minimum-window-substring](https://github.com/Anchal-jpg/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anchal-jpg/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Anchal-jpg/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Anchal-jpg/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -275,6 +279,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anchal-jpg/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
