@@ -96,6 +96,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Anchal-jpg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/Anchal-jpg/LeetCode/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchal-jpg/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Anchal-jpg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -245,6 +246,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Anchal-jpg/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Anchal-jpg/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Anchal-jpg/LeetCode/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/Anchal-jpg/LeetCode/tree/master/0832-flipping-an-image) |
