@@ -88,6 +88,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anchal-jpg/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Anchal-jpg/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Anchal-jpg/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Anchal-jpg/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anchal-jpg/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -246,6 +247,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Anchal-jpg/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Anchal-jpg/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Anchal-jpg/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Anchal-jpg/LeetCode/tree/master/0461-hamming-distance) |
