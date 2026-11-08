@@ -2,29 +2,20 @@ class Solution {
 public:
     bool isPalindrome(int x) {
        
-        if (x < 0) {
-        return false;
-    }
+       if(x<0) return 0;
+       int ori=x;
+       long long reverse=0;
+       while(x>0){
+            int dig=x%10;
+            reverse=reverse*10+dig;
+            x/=10;
 
-    int original = x;
-    int rev = 0;
+       }
+       return ori==reverse;
 
-    while (x != 0) {
-        int rem = x % 10;
-        
-        if (rev > (INT_MAX - rem) / 10) {
-         
-            return false;
-        }
-        rev = rev * 10 + rem;
-        x = x / 10;
-    }
-
-    return original == rev;
+    
 }
         
         
     
 };
-
-//Palindrome Number
