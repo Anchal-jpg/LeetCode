@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Anchal-jpg/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Anchal-jpg/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anchal-jpg/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Anchal-jpg/LeetCode/tree/master/0162-find-peak-element) |
@@ -143,6 +144,7 @@
 | [0009-palindrome-number](https://github.com/Anchal-jpg/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Anchal-jpg/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Anchal-jpg/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Anchal-jpg/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anchal-jpg/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anchal-jpg/LeetCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Anchal-jpg/LeetCode/tree/master/0342-power-of-four) |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anchal-jpg/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anchal-jpg/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
